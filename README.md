@@ -1,2 +1,2 @@
-# squadplan-support
-Support page for squad plan app
+# ClanPlan-support
+Support page for ClanPlan app
